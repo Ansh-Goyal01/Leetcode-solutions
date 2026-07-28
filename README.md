@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ansh-Goyal01/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh-Goyal01/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Ansh-Goyal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh-Goyal01/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Ansh-Goyal01/Leetcode-solutions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Ansh-Goyal01/Leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
